@@ -1,0 +1,5 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=887
+
+As a plugin, docbkhelper adds a Plugin.Docbook.New Book menu item that creates a new DocBook buffer, with a basic skeleton. An ftplugin later adds other menu items and key mappings to add chapters, paras, sections, emphases, itemized lists... When invoked in visual modes, most of these mappings turn the selected text into a chapter, para, section...
+
+You must install xmledit, http://www.vim.org/scripts/script.php?script_id=301 for docbkhelper mappings rely on xmledit's key mappings.
